@@ -1,0 +1,55 @@
+# general rule for shifted vs truncated
+shifted
+# general rule tail corrections
+no
+# number of defined interactions
+46
+# type interaction   IMPORTANT: define generic matches first
+C lennard-jones 52.838 3.43
+N lennard-jones 34.722 3.26
+H lennard-jones 22.142 2.57
+O lennard-jones 54.17 3.51
+H_com  lennard-jones 36.7  2.958
+H_h2   none
+CH4_sp3 lennard-jones 148.00 3.73
+N33 lennard-jones 104.46 3.99
+N32 lennard-jones 76.77 3.89
+N31 lennard-jones 54.17 3.79
+N3  lennard-jones 36.53 3.69
+N22 lennard-jones 76.85 3.89
+N21 lennard-jones 54.17 3.79
+NR lennard-jones  36.53 3.69
+NR1 lennard-jones 54.17 3.79
+N2 lennard-jones 36.53 3.69
+N1 lennard-jones 36.53 3.69
+N11 lennard-jones 36.53 3.69
+O32 lennard-jones 104.46 3.71
+O31 lennard-jones 76.85 3.61
+O3 lennard-jones 54.17 3.51
+OR1 lennard-jones 54.17 3.61
+O22 lennard-jones 54.17 3.51
+O2 lennard-jones 54.17 3.51
+C33 lennard-jones 76.85 4.18
+C32 lennard-jones 54.17 4.08
+C31 lennard-jones 36.53 3.98
+C3 lennard-jones 23.93 3.88
+C22 lennard-jones 54.17 4.08
+CR1 lennard-jones 36.53 3.98
+C21 lennard-jones 36.53 3.98
+C2 lennard-jones 23.91 3.88
+C11 lennard-jones 36.53 3.98
+C1 lennard-jones 23.91 3.88
+CR lennard-jones 23.91 3.88
+S lennard-jones 54.17 4.14
+Li lennard-jones 12.58 2.184
+K lennard-jones 38.08 3.06
+Na lennard-jones 15.096 2.658
+Mg lennard-jones 55.8574 2.69
+Ni lennard-jones 7.54829 2.52
+Ca lennard-jones 24.18 2.72
+F lennard-jones 18.25 3.47
+Cl lennard-jones 71.31 3.95
+Br lennard-jones 93.13 3.95
+I lennard-jones 128.37 4.15
+# general mixing rule for Lennard-Jones
+Lorentz-Berthelot
